@@ -23,7 +23,3 @@ check it out at:https://mohammedtabrez237.github.io/Simple-Calculator.github.io/
 ![1](https://user-images.githubusercontent.com/109822837/226643154-2aa01aa4-2bff-407f-8d23-74ac82a12a1d.jpeg)
 ![2](https://user-images.githubusercontent.com/109822837/226643171-940e761d-a2e6-46d5-80f8-e503bc9712c0.jpeg)
 
-
-# :movie_camera: video:
-
-
