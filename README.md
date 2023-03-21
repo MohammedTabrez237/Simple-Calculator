@@ -2,7 +2,7 @@
 
 # About :blue_book::
 It is a Calculator in which you perform mathematical operations like Addition,finding difference,multiplication etc.It has been designed using using HTML,CSS,Javascript.
-It is fully responsive,you can even utilise its' facility on smart devices 
+It is fully responsive,you can even take its' advantage  on smart devices 
 
 # Link
 check it out at:https://mohammedtabrez237.github.io/Simple-Calculator.github.io/
