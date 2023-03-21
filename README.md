@@ -9,7 +9,9 @@ check it out at:https://mohammedtabrez237.github.io/Simple-Calculator.github.io/
 
 # :hammer_and_wrench: TECHNOLOGY:
 *HTML
+<br>
 *CSS
+<br>
 *JAVASCRIPT
 
 # :camera: Screenshots:
